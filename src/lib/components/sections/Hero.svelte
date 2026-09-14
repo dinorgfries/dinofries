@@ -114,8 +114,8 @@
 		<h1 class="title">dinofries</h1>
 
 		<div class="about-card" id="about">
-			<div class="about-greeting">hi, i'm Matt!</div>
-			<p>i create gaming content</p>
+			<div class="about-greeting">hi i'm Matt</div>
+			<p>i create MapleStory Classic World content</p>
 			<p>on YouTube and Twitch</p>
 		</div>
 	</div>
